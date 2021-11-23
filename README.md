@@ -29,7 +29,12 @@ npm install
 
 ## Usage
 
-demo input here
+
+
+https://user-images.githubusercontent.com/87666809/142959518-a7fe2ae1-cd0f-4d25-ae68-92c9059fd6fe.mp4
+
+[README.md](https://github.com/KimAH1999/README-Generator/files/7585351/README.md)
+
   
 ## Contributing
 
