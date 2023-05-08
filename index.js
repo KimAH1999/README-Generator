@@ -40,7 +40,7 @@ const questions = [
     type: 'input',
     name: 'installation',
     message: 'What command should be run to install dependencies?',
-    default: 'npm i',
+    default: 'npm install',
   },
   {
     type: 'input',
@@ -57,7 +57,7 @@ const questions = [
     type: 'input',
     name: 'contributing',
     message: 'What does the user need to know about contributing to the repo?',
-    default: 'Available to be reached through Linkdin and Slack, which is avilable in personal Portfolio',
+    default: 'Available to be reached through Linkedin, Slack, and personal email which is available at my Github profile description.',
   },
 ];
 
