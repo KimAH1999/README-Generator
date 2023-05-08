@@ -1,9 +1,9 @@
-# README GERNERATOR
-![GitHub license](https://img.shields.io/badge/license-None/N/a-blue.svg)
+# reactNative-FindTheBallGame
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Create README file by command-line application
+A simple game where the player must guess which cup a hidden ball is under, among several cups shuffled on the screen. The difficulty increases with the number of cups used in the game.
 
 ## Table of Contents 
 
@@ -29,16 +29,11 @@ npm install
 
 ## Usage
 
-
-
-https://user-images.githubusercontent.com/87666809/142959518-a7fe2ae1-cd0f-4d25-ae68-92c9059fd6fe.mp4
-
-[README.md](https://github.com/KimAH1999/README-Generator/files/7585351/README.md)
-
+demo
   
 ## Contributing
 
-Available to be reached through Linkdin and Slack, which is avilable in personal Portfolio
+Available to be reached through Linkedin, Slack, and personal email which is available at my Github profile description.
 
 ## Tests
 
